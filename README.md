@@ -1,4 +1,8 @@
-# Rattld
+# Footling
+
+_trivial and irritating_
+
+Forked from [Rattle](https://github.com/rattld/rattle)
 
 ## Table of Contents
 * [Description](#description)
@@ -9,7 +13,7 @@
 * [Authors](#authors)
 
 ### Description
-A React Native app built with the help of Expo. This app takes your name as input and greets you with your geo-location. When you're ready, it will randomly generate a phrase and sweetly play it back to you, along with your name. 
+A React Native app built with the help of Expo.
 
 **NOTE**: Turn up the volume of your device!
 
@@ -30,7 +34,7 @@ And the Expo client for your device OS:
 
 Clone the project and install packages:
 
-`git clone https://github.com/rattld/rattle.git && cd rattle && npm install`
+`git clone https://github.com/DukeOfEtiquette/footling.git && cd rattle && npm install`
 
 Now run:
 
@@ -77,9 +81,5 @@ These initial wireframes drove our design decisions, with few changes made along
 
 [--top--](#table-of-contents)
 
-### Authors
+### Author
 [Adam DuQuette](https://github.com/DukeOfEtiquette)
-
-[Calvin Cheng](https://github.com/calvincheng919)
-
-[Nathaniel Pierce](https://github.com/natkiypie)
