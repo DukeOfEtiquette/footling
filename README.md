@@ -46,15 +46,15 @@ Now run:
 
 Below are wiki articles on various topics related to this project. You will find them useful if you are new to React Native/Expo and want to learn more about how this project works.
 
-[Running the app on your phone](https://github.com/rattld/rattle/wiki/Running-the-app-on-your-phone)
+[Running the app on your phone](https://github.com/dukeofetiquette/footling/wiki/Running-the-app-on-your-phone)
 
-[React Native Navigation](https://github.com/rattld/rattle/wiki/What-the-heck-does-it-do%3F#navigation)
+[React Native Navigation](https://github.com/dukeofetiquette/footling/wiki/What-the-heck-does-it-do%3F#navigation)
 
-[NOT HTML FOR YOU](https://github.com/rattld/rattle/wiki/Coming-soon...)
+[NOT HTML FOR YOU](https://github.com/dukeofetiquette/footling/wiki/Coming-soon...)
 
-[expo-cli](https://github.com/rattld/rattle/wiki/Coming-soon...)
+[expo-cli](https://github.com/dukeofetiquette/footling/wiki/Coming-soon...)
 
-[Expo Location](https://github.com/rattld/rattle/wiki/Coming-soon...)
+[Expo Location](https://github.com/dukeofetiquette/footling/wiki/Coming-soon...)
 
 [--top--](#table-of-contents)
 
