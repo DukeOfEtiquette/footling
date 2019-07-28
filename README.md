@@ -50,7 +50,7 @@ Below are wiki articles on various topics related to this project. You will find
 
 [React Native Navigation](https://github.com/dukeofetiquette/footling/wiki/What-the-heck-does-it-do%3F#navigation)
 
-[NOT HTML FOR YOU](https://github.com/dukeofetiquette/footling/wiki/Coming-soon...)
+[NO HTML FOR YOU](https://github.com/dukeofetiquette/footling/wiki/Coming-soon...)
 
 [expo-cli](https://github.com/dukeofetiquette/footling/wiki/Coming-soon...)
 
